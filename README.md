@@ -1,2 +1,0 @@
-# talas-wado
-website
