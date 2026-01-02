@@ -1,1 +1,1 @@
-
+Add placeholder to enable /v2 in GitHub Pages
