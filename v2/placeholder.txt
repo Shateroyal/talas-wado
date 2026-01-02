@@ -1,1 +1,0 @@
-This is a placeholder file to make GitHub Pages recognize the /v2 folder.
